@@ -25,7 +25,7 @@ According to our results, ground clearance and vehicle length are statistically 
 
 ## Summary Statistics on Suspension Coils
 
-The Suspension Coil dataset dataset contains the results from multiple production lots. The weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots Shown below the Statistical analysis of this dataset.
+The Suspension Coil dataset contains the results from multiple production lots. The weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots Shown below the Statistical analysis of this dataset.
 
 Total Summary statistics table of the suspension coil’s PSI across all manufacturing lots.
 ![image](https://user-images.githubusercontent.com/114262970/216581730-a64fff76-0115-4704-9146-f0435c51c23e.png)
