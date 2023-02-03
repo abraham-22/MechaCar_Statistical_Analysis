@@ -42,3 +42,20 @@ Using t-tests, we further analysed the dataset whether or not all manufacturing 
 ![image](https://user-images.githubusercontent.com/114262970/216592795-bc64ce03-b14a-41b9-b7f6-ad7425dabd9e.png)
 
 With the significance level of 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis (there is nos statistical difference between sample mean vs population mean), and we would state that the two means are statistically similar.
+
+## Study Design: MechaCar vs Competition
+In this statistical study, we will quantify how the MechaCar performs against the competition.  
+
+##### Sampling: 
+* A random sampling with a sample size n> 100. Collect data from MechaCars and competitors. Data to collect: cost, city or highway fuel efficiency, horse power, and safety rating.
+
+##### Method: 
+What metric or metrics are you going to test?
+* Metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, and safety rating.
+
+What is the null hypothesis or alternative hypothesis?
+* Null Hypothesis- Ho: Mechacar pricing is not accurate and not based on the performance metrics compared to competitors.
+* Alternative Hypothesis - Ha: Mechacar pricing is accurate and based on the performance metrics compared to competitors.
+
+What statistical test would you use to test the hypothesis? And why?
+* To test the hypothesis we can use the Multiple linear regression model. This is because multiple linear regression uses multiple independent variables to account for parts of the total variance observed in the dependent variable.
