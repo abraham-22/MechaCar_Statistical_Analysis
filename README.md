@@ -37,7 +37,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
-Using t-tests, we further analysed the dataset if all manufacturing lots and each lot individually are statistically different from the population mean.
+Using t-tests, we further analysed the dataset whether or not all manufacturing lots and each lot individually are statistically different from the population mean.
 
 ![image](https://user-images.githubusercontent.com/114262970/216592795-bc64ce03-b14a-41b9-b7f6-ad7425dabd9e.png)
 
